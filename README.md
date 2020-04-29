@@ -26,5 +26,10 @@ Com outro terminal aberto, navegue até a pasta "Frontend". Vamos ao comando
 
 - npm install
 
-Vai demorar um pouco, mas assim que terminar , o ultimo
+Vai demorar um pouco, mas assim que terminar , o ultimo comando é 
 - npm start
+
+Se você ja programa, e tem seus gerenciadores de pacotes preferidos, fique a vontade, só trocar NPM pelo seu gerenciador... YARN sei la...
+só mantenha as palavras chaves INSTALL e START. GG
+
+-- Logo menos, Mobile !
